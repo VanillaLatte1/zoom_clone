@@ -1,0 +1,28 @@
+{
+  "name": "web_project_zoom",
+  "version": "1.0.0",
+  "description": "Zoom Clone Coding",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.0",
+    "@babel/node": "^7.17.10",
+    "@babel/preset-env": "^7.18.0",
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "apt": "^0.0.2",
+    "babel": "^6.23.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "git": "^0.1.5",
+    "html": "^1.0.0",
+    "localtunnel": "^2.0.2",
+    "pug": "^3.0.2",
+    "socket.io": "^4.5.1",
+    "ws": "^8.6.0"
+  }
+}

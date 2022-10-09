@@ -1,0 +1,116 @@
+body {
+    overflow-x:hidden;
+    /*overflow-y:hidden;*/
+    height: 100vh;
+    background-repeat : no-repeat;
+    background-size : cover;
+    background-image: url("/public/image/레트로 컴퓨터_main.png");
+    background-position: center;
+    background-color: #D3AF97;
+    font-style: normal;
+    font-size: 20px;
+    font-family: 둥근모꼴, 궁서체;
+}
+#myFace{
+    position: relative;
+    left: 230px;
+}
+#peerFace{
+    position: relative;
+    left: 250px;
+}
+#button{
+    position: relative;
+    left: 480px;
+    top: -50px;
+}
+#head{
+    position: relative;
+    top: 150px;
+    left: 320px;
+    font-size: 70pt;
+}
+#head2{
+    position: relative;
+    top: 100px;
+    left: 240px;
+    font-size: 50pt;
+}
+#welcome{
+    position: relative; 
+    top: 100px;
+    left: 350px;
+}
+
+
+#Enter{
+    border: 0;
+    outline: 0;
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+    background-color: transparent;
+}
+#Enter img{
+    width : 100%;
+    height: 100%; 
+}
+
+#mute{
+    border: 0;
+    outline: 0;
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    background-color: transparent;
+}
+#mute img{
+    width : 100%;
+    height: 100%; 
+}
+
+#camera{
+    border: 0;
+    outline: 0;
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    background-color: transparent;
+}
+#camera img{
+    width : 100%;
+    height: 100%; 
+}
+
+#paint{
+    border: 0;
+    outline: 0;
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    background-color: transparent;
+}
+#paint img{
+    width : 100%;
+    height: 100%; 
+}
+select{
+    position: relative;
+    top: -50px;
+    left: 20px;
+    width: 200px;
+    padding: .8em .5em;
+    border: 1px solid #999;
+    font-family: inherit;
+    border-radius: 0px;
+     -webkit-appearance: none;
+     -moz-appearance: none;
+    appearance: none;
+}
+
+#welcome form input{
+    font-family: 둥근모꼴;
+    width: 500px;
+    height: 70px;
+    font-size: 50pt;
+}
