@@ -1,3 +1,0 @@
-﻿# zoom_coding
-
-> 노마드코더의 zoom_clone_coding
